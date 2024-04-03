@@ -60,8 +60,9 @@ public class MainActivity extends AppCompatActivity {
         btn00.setOnClickListener(onClickListener);
 
     }
+// CAMBIOS     // OnClickListener común para todos los botones
 
-    // OnClickListener común para todos los botones
+
     private View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
