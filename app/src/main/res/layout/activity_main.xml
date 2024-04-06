@@ -10,7 +10,7 @@
     android:padding="40dp"
     android:background="@color/fondo"
     >
-
+    
     <ImageButton
         android:id="@+id/imgQR"
         android:layout_width="wrap_content"
